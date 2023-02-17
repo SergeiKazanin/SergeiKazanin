@@ -41,6 +41,8 @@
 
 ![codewars](https://www.codewars.com/users/SergeiKazanin/badges/large)
 
+---
+
 ### ⚙️ GitHub статистика:
 
 <table>
@@ -53,5 +55,7 @@
     </td>
   </tr>
 </table>
+
+---
 
 <img src="https://komarev.com/ghpvc/?username=SergeiKazanin&style=flat-square&color=blue" alt=""/>
