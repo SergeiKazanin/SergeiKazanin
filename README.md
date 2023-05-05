@@ -5,7 +5,7 @@
 Занимаюсь веб разработкой. В качестве хобби разрабатывыаю проекты на Arduino.
  
  - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-SergeiKazanin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/SergeiKazanin76) [![Gmail Badge](https://img.shields.io/badge/-serega7667@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](serega7667@gmail.com)
-
+ - :house: Страница с портфолио: [![Telegram Badge](https://img.shields.io/badge/-HOMEPAGE-blue?style=flat&logoColor=white)](https://home-page-snowy-two.vercel.app/)
 ---
 
 ### 🤝 Социальные сети:
